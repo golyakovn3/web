@@ -6,7 +6,7 @@
 
 - ### Домашнее задание №2 - Чек-лист и тест-кейсы для тестирования корзины и оплаты
 
-  **[Ссылка на чек-лист](https://docs.google.com/spreadsheets/d/1QLbJa56JA1yQbdC4I4o6p52T88oqw3c0cfb-ICSXHyg/edit?usp=sharing)**
+  **[Ссылка на файл с ДЗ](https://docs.google.com/spreadsheets/d/1QLbJa56JA1yQbdC4I4o6p52T88oqw3c0cfb-ICSXHyg/edit?usp=sharing)**
 
   **[Ссылка на тестовый набор в системе Qase](https://app.qase.io/project/G9?suite=254)**
 
