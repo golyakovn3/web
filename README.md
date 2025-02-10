@@ -18,3 +18,7 @@
 
   **[Ссылка на файл с отчетами о дефектах из системы YouTrack, экспортированными в формате XLSX](https://github.com/golyakovn3/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85.xlsx)**
 
+- ### Перехват и изменение трафика
+
+  **[Ссылка на файл с ДЗ](https://docs.google.com/document/d/1bUpfucG1uuSe8Q859fBbZ3hPiKsRPpIHUXp8Q7674a8/edit?usp=sharing)**
+
